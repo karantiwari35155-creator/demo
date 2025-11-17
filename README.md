@@ -4,5 +4,5 @@ demo GitHub..
 # student
 karan
 
-# Teacher
+# Teacher.
 sigma
